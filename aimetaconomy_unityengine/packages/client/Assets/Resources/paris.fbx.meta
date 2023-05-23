@@ -1,0 +1,818 @@
+fileFormatVersion: 2
+guid: 94b3b9e14c2ca451bab2d990f838fa55
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00000-texture
+    second: {fileID: 2800000, guid: bdc802b522cbc4744b99977c79db21c6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00001-texture
+    second: {fileID: 2800000, guid: 03a11fa58cde34b699fe61f683a1b335, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00002-texture
+    second: {fileID: 2800000, guid: a4170f2a777c84086ac63226fc5d1178, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00003-texture
+    second: {fileID: 2800000, guid: 6172144ab983d4bdcbec8e6decb90cb0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00004-texture
+    second: {fileID: 2800000, guid: af89e9b4bb75042798266935af138206, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00005-texture
+    second: {fileID: 2800000, guid: 4e5a43b5f4c5545a6a455dde158ee313, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00006-texture
+    second: {fileID: 2800000, guid: 30347ebe7c6d84f26abb7f58e2fd6181, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00007-texture
+    second: {fileID: 2800000, guid: eb718fcbe35364b91bfea8deba604bac, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00008-texture
+    second: {fileID: 2800000, guid: db2ef6624cc9c4c33846a156c7710bc9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00009-texture
+    second: {fileID: 2800000, guid: 6405e0108530e4701b2a49df93b03f72, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00010-texture
+    second: {fileID: 2800000, guid: 369e4c30f214e441fb10d5e2c1366960, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00011-texture
+    second: {fileID: 2800000, guid: db60535341c0244a4a5cfe690d7a5420, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00012-texture
+    second: {fileID: 2800000, guid: 17543b7a2c3b64e96ac4aaebd3e8e7dd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00013-texture
+    second: {fileID: 2800000, guid: 89861157d3c924f849b634c8d56bd708, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00014-texture
+    second: {fileID: 2800000, guid: fc13f53b8e6834201b0c35f9fb8db818, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00015-texture
+    second: {fileID: 2800000, guid: 1864f576f99954259990151186463962, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00016-texture
+    second: {fileID: 2800000, guid: e921e9c66d1964cb2b258b134c902256, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00017-texture
+    second: {fileID: 2800000, guid: eb3a195f0e5ea45559fce17f54650311, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00018-texture
+    second: {fileID: 2800000, guid: de8f39a737ada462a92be713e7137fcc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00019-texture
+    second: {fileID: 2800000, guid: b6e199f5365fa4088821c516cc13610a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00020-texture
+    second: {fileID: 2800000, guid: 84b23c5e7d743482f9f1dbf970811a83, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00021-texture
+    second: {fileID: 2800000, guid: c2f1656bc354142d9bae305c62b324e4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00022-texture
+    second: {fileID: 2800000, guid: b75d1172c16504955bfd060063470bfc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00023-texture
+    second: {fileID: 2800000, guid: 029b55752f6a840e4b8cc8f6b78a89b7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00024-texture
+    second: {fileID: 2800000, guid: 32f645ca26fb646ae936bbca3c3fd043, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00025-texture
+    second: {fileID: 2800000, guid: 287fc23ac3e9048b48131bb612d37546, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00026-texture
+    second: {fileID: 2800000, guid: f261509c8245d4fb5863e1e09461b745, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00027-texture
+    second: {fileID: 2800000, guid: 1a91abeda9dec47a0914760cb3958beb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00028-texture
+    second: {fileID: 2800000, guid: 6d5a4cdaf687c42a4a5fa709e8becc9e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00029-texture
+    second: {fileID: 2800000, guid: c85e5c9189e794edb9af79479f4edb97, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00030-texture
+    second: {fileID: 2800000, guid: 9bc5d3388b5cc4a21b9f6083002bd9f5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00031-texture
+    second: {fileID: 2800000, guid: 79deebef272924dc3aa41daa673a47a8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00032-texture
+    second: {fileID: 2800000, guid: fc8f04f6b3cc74bdbb22fa15ba717e14, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00033-texture
+    second: {fileID: 2800000, guid: 91f12bb95043e482a8e2175eafd639c1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00034-texture
+    second: {fileID: 2800000, guid: 5b87a3547a31c4c37a9a631725101042, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00035-texture
+    second: {fileID: 2800000, guid: ff945b576eb0d4fab83830874e0ab4d6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00036-texture
+    second: {fileID: 2800000, guid: ad697ab0bcc0b45a98db8752dcd057f0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00037-texture
+    second: {fileID: 2800000, guid: 561bb3594211b4b1b95b95c3bdbe04e6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00038-texture
+    second: {fileID: 2800000, guid: b6429b166e60f4b00b76a456c900b352, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00039-texture
+    second: {fileID: 2800000, guid: afb04957bbd1f4a8a9305b856d9599fa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00040-texture
+    second: {fileID: 2800000, guid: 607d302d99c0a455da5b106752126e9c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00041-texture
+    second: {fileID: 2800000, guid: 4dcbe8ff208b2476d9e0491397d972cb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00042-texture
+    second: {fileID: 2800000, guid: d22e17482a431452996b1d33417cfd4c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00043-texture
+    second: {fileID: 2800000, guid: 44895b65a5e384581a01e55d2186c2f2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00044-texture
+    second: {fileID: 2800000, guid: 7274814108ad841a19dfbabc707fd872, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00045-texture
+    second: {fileID: 2800000, guid: a5e3de5cb459246ebbfae5464bbb2fbc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00046-texture
+    second: {fileID: 2800000, guid: 9890b73571cd141fe973a542cf0ea8eb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00047-texture
+    second: {fileID: 2800000, guid: e43a0552eb7f34fe38c60ce4d2070523, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00048-texture
+    second: {fileID: 2800000, guid: 769e049ec49b749fe8559d353d9932d7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00049-texture
+    second: {fileID: 2800000, guid: 2a20a0e5a3d1f4f11aa2bf9da2d30aae, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00050-texture
+    second: {fileID: 2800000, guid: a5f6048e77de64abcb9c4864e55d9574, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00051-texture
+    second: {fileID: 2800000, guid: 9bf1988d79fb54d20acac85e53b54739, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00052-texture
+    second: {fileID: 2800000, guid: e152d6263223540ddafe6d88f9756090, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00053-texture
+    second: {fileID: 2800000, guid: f7286110822fc4db3a33586cc5fcfa71, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00054-texture
+    second: {fileID: 2800000, guid: 1fd235a1235d34ff0bc76cdcb486e11d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00055-texture
+    second: {fileID: 2800000, guid: 704f0d523005d4ca498fdf95b54d36fa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00056-texture
+    second: {fileID: 2800000, guid: f7250db1a9c7a4b0a93b8b92bfdf2893, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00057-texture
+    second: {fileID: 2800000, guid: 555c1cb42333b4f2cadb69aa425eb68d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00058-texture
+    second: {fileID: 2800000, guid: 1f99325b5f03e42e9a00f105e2eff5a4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00059-texture
+    second: {fileID: 2800000, guid: d1582a2751fcf4a1ca0ed8c141b75306, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00060-texture
+    second: {fileID: 2800000, guid: 3d8bf9507d0b745f4a20a13123e56572, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00061-texture
+    second: {fileID: 2800000, guid: 9d0999e0676c94b7d9a2fc41a6f9df1c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00062-texture
+    second: {fileID: 2800000, guid: 8407baa7358654790b7c12b96b74acfe, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00063-texture
+    second: {fileID: 2800000, guid: 013d812be05404b638c0f9862cca6047, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00064-texture
+    second: {fileID: 2800000, guid: 8a2cc66547752416b82014c09559882c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00065-texture
+    second: {fileID: 2800000, guid: 271efd6b32e0c4d268f4c307b023d4d7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00066-texture
+    second: {fileID: 2800000, guid: de9a93d0afc994ed98f5a0d2b02ac1f7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00067-texture
+    second: {fileID: 2800000, guid: 326cc135353e0432b94f9851a7b55448, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00068-texture
+    second: {fileID: 2800000, guid: 61af08a90d5b94876906ef255e411225, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00069-texture
+    second: {fileID: 2800000, guid: 07175a393db794385b1f44a7784bc779, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00070-texture
+    second: {fileID: 2800000, guid: 1ed424e2ea1e54131b171d38e80c63b3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00071-texture
+    second: {fileID: 2800000, guid: 8e5c17274477f417398bc3bfedba0fec, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00072-texture
+    second: {fileID: 2800000, guid: 07928b8c3e24042f09f659888a1a9a1b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00073-texture
+    second: {fileID: 2800000, guid: 63dbbba6679f74345905d6cd07a25dd3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00074-texture
+    second: {fileID: 2800000, guid: 125128515eb794ed38687424022f7d78, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00075-texture
+    second: {fileID: 2800000, guid: 7febba4174c7c4eb5bcdf62ebd73e533, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00076-texture
+    second: {fileID: 2800000, guid: 4aaf46f2786f94ca1956006760e1b1fe, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00077-texture
+    second: {fileID: 2800000, guid: 5d41785807cbb4c6d9032224a6034976, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00078-texture
+    second: {fileID: 2800000, guid: 8344358dbfd604497b63f01101700a8f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00079-texture
+    second: {fileID: 2800000, guid: 85c0ae68c80f6424687effa4ba6db2c6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00080-texture
+    second: {fileID: 2800000, guid: f8dd9b64d63314625a2e0b8541db225c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00081-texture
+    second: {fileID: 2800000, guid: 500352398476b4cfe83a567b7cea3ad9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00082-texture
+    second: {fileID: 2800000, guid: 71ebd79e7117340a9ae1cb72ec3adb54, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00083-texture
+    second: {fileID: 2800000, guid: 753cac4d6d35e4520bd1e32e8bb8dc72, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00084-texture
+    second: {fileID: 2800000, guid: c9b68ad1360fc4195a500b04d6caeea7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00085-texture
+    second: {fileID: 2800000, guid: 9860e6a2cc2274a1e8e4439f2294340e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00086-texture
+    second: {fileID: 2800000, guid: df2d2454804b34082b2c1dcd5e035877, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00087-texture
+    second: {fileID: 2800000, guid: af438712668f3437ea7e0f2eda45e836, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00088-texture
+    second: {fileID: 2800000, guid: be5d19e4604044be989e85855c3a0d86, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00089-texture
+    second: {fileID: 2800000, guid: 17050a8d77dfb440aadb619ba9ce2e48, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00090-texture
+    second: {fileID: 2800000, guid: 2f1426fc0c4be47ad820d327d585fe47, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00091-texture
+    second: {fileID: 2800000, guid: bccce5e8eae1c4f80899bddd6125d004, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00092-texture
+    second: {fileID: 2800000, guid: dcd0fdb9397f74bbba7ec86a15e9dc57, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00093-texture
+    second: {fileID: 2800000, guid: 2bec492598838484f95dbae12b34f33f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00094-texture
+    second: {fileID: 2800000, guid: 4edf3cdc0109d42acac0c932b05b5121, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00095-texture
+    second: {fileID: 2800000, guid: 97144a94abe644fda932962828f553ae, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00096-texture
+    second: {fileID: 2800000, guid: dd8eb250f77ac4c9fa80fdc0ba453660, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00097-texture
+    second: {fileID: 2800000, guid: e1e2a6fc4ddad41ce91762e739f99794, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00098-texture
+    second: {fileID: 2800000, guid: dcb30594c768941e48ba7125984c337c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00099-texture
+    second: {fileID: 2800000, guid: ec20a560b9e1d40529ca6e5821ea7499, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00100-texture
+    second: {fileID: 2800000, guid: 156166254482849328a9bd1612d3f91c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00101-texture
+    second: {fileID: 2800000, guid: 3a351cbd655394030972058599a6f53b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00102-texture
+    second: {fileID: 2800000, guid: b7eca8ec883b848a1b773c3c9bb019be, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00103-texture
+    second: {fileID: 2800000, guid: b29c043aae12246a9b5ac067034cc75b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00104-texture
+    second: {fileID: 2800000, guid: 73252da353c0e4bc5b4e705810a90f2e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00105-texture
+    second: {fileID: 2800000, guid: affb63217392d404bbeab5b0b7a35c9a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00106-texture
+    second: {fileID: 2800000, guid: 0aead5cda7f1c404e8b67d05a5bf5aa1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00107-texture
+    second: {fileID: 2800000, guid: eaa456b9f7cf24dc1a3f2afd87f51bd8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00108-texture
+    second: {fileID: 2800000, guid: b10510e2f243d4764958df78ed30c3ad, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00109-texture
+    second: {fileID: 2800000, guid: dda0e7dbf59a94ecd899654624f2d445, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00110-texture
+    second: {fileID: 2800000, guid: 3d5672d9ebd4341e9bc2fbb5e2febb42, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00111-texture
+    second: {fileID: 2800000, guid: d14f7f09aab2246a09526688c49b103b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00112-texture
+    second: {fileID: 2800000, guid: 5fd7baa87b76a48dfa5ccdb016f2f7c5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00113-texture
+    second: {fileID: 2800000, guid: d15922a312ae744be94feebd1be98a7b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00114-texture
+    second: {fileID: 2800000, guid: d095efa68470641798bd6e75de6e9cf3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00115-texture
+    second: {fileID: 2800000, guid: 2a52881b56aa34b4b9b14e1720b3b343, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00116-texture
+    second: {fileID: 2800000, guid: 55bbd80bb18784d8586577f38c7893be, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00117-texture
+    second: {fileID: 2800000, guid: eb331ac31ee8944a1b2ce248c60bc4da, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00118-texture
+    second: {fileID: 2800000, guid: e66ecd42a002a4d5093a1fc1f3fe569c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00119-texture
+    second: {fileID: 2800000, guid: 0c4cee9875d2b405db345efcd2659fc8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00120-texture
+    second: {fileID: 2800000, guid: 261d7eae171c24d799a58d669a59491a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00121-texture
+    second: {fileID: 2800000, guid: cf09c2c67c3584afb878e6e97294c3ac, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00122-texture
+    second: {fileID: 2800000, guid: 2037d42a7f139491c9412ec89de87146, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00123-texture
+    second: {fileID: 2800000, guid: ef848e45b1e134e8e90f199dfae21a83, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00124-texture
+    second: {fileID: 2800000, guid: 7d8044ddc83e3410c906a26824262443, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00125-texture
+    second: {fileID: 2800000, guid: 4d08d27c4863a428eaf69dce1f2d0963, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00126-texture
+    second: {fileID: 2800000, guid: de2afd21bcf5642cc89e55839a302e58, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00127-texture
+    second: {fileID: 2800000, guid: 08894f414d6af4e61874218be2b5e051, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00128-texture
+    second: {fileID: 2800000, guid: cb8928d7e7bde47308b0ebc2840381b5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00129-texture
+    second: {fileID: 2800000, guid: 12b0c9fb72c3b4129ba17ed42a19aa47, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00130-texture
+    second: {fileID: 2800000, guid: d13010193334041b0a778aa869c5b99b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00131-texture
+    second: {fileID: 2800000, guid: ebd9428d4c31649de9b8788954c587e0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00132-texture
+    second: {fileID: 2800000, guid: 05a9099fcbb9c4cb9ae037dddd85ddd0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00133-texture
+    second: {fileID: 2800000, guid: 777d719d685ac48758fb3b1b04c7b5c6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00134-texture
+    second: {fileID: 2800000, guid: 3cdfc7eb09b984993a650be044f206cc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00135-texture
+    second: {fileID: 2800000, guid: 589cc3cf2d5da4c718b65ca333ad6d7d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00136-texture
+    second: {fileID: 2800000, guid: 604ce9d9d74df4c9dbe233c7b149d389, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00137-texture
+    second: {fileID: 2800000, guid: 1c6563750917040afa3d15ea5814ba00, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00138-texture
+    second: {fileID: 2800000, guid: ec6e7d663a15f403e8e822d5d0251d1e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00139-texture
+    second: {fileID: 2800000, guid: b20cec060bf134df7a704cdd6cb3aeb4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00140-texture
+    second: {fileID: 2800000, guid: 6f7c36ac074ff46b5a54a32fc4908c80, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paris-00141-texture
+    second: {fileID: 2800000, guid: a45985272cbe946118bf2a0b40ca4658, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
